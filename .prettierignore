@@ -1,0 +1,20 @@
+# Ignore all files in the dist folder
+/dist
+
+# Ignore all files in the node_modules folder
+/node_modules
+
+# Ignore all files in the coverage folder
+/coverage
+
+# Ignore all files in the .vscode folder
+/.vscode
+
+# Ignore all files in the .idea folder
+/.idea
+
+# Ignore all files in the .git folder
+/.git
+
+# Ignore all files in the .env file
+.env
