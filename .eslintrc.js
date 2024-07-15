@@ -7,12 +7,8 @@ module.exports = {
   },
   plugins: ['@typescript-eslint/eslint-plugin'],
   extends: [
-    'eslint:recommended',
+    'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
-    'plugin:@typescript-eslint/recommended-type-checked',
-    'plugin:@typescript-eslint/stylistic-type-checked',
-    'plugin:unicorn/recommended',
-    'prettier',
   ],
   root: true,
   env: {
@@ -34,6 +30,5 @@ module.exports = {
     '@typescript-eslint/interface-name-prefix': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
-    'unicorn/prevent-abbreviations': 'off',
   },
 };
