@@ -31,9 +31,7 @@
         "dbaeumer.vscode-eslint",
         "christian-kohler.path-intellisense",
         "firsttris.vscode-jest-runner",
-        "nrwl.angular-console@18.10.1",
         "YoavBls.pretty-ts-errors",
-        "cweijan.vscode-database-client2",
         "Prisma.prisma"
       ]
     }
